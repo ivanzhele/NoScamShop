@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NoScamShop/static/css/main.75b36e61.css",
+    "main.js": "/NoScamShop/static/js/main.6e06c92e.js",
+    "static/media/VBucks.png": "/NoScamShop/static/media/VBucks.7b62248267c3d70a36d7.png",
+    "static/media/fortnitebattlefest.ttf": "/NoScamShop/static/media/fortnitebattlefest.9a279d22f71f6f08e0e5.ttf",
+    "static/media/Montserrat-Regular.ttf": "/NoScamShop/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "index.html": "/NoScamShop/index.html",
+    "main.75b36e61.css.map": "/NoScamShop/static/css/main.75b36e61.css.map",
+    "main.6e06c92e.js.map": "/NoScamShop/static/js/main.6e06c92e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75b36e61.css",
+    "static/js/main.6e06c92e.js"
+  ]
+}
